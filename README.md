@@ -1,10 +1,19 @@
+Türkçe
 
-   👋 Hi, I’m @EmrenyuS (My Nickname) 👋
+🎮 Nevşehir Hacı Bektaş Veli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
+Unreal Engine ve C++ kullanarak oyun geliştirme üzerine çalışıyorum.
 
-   - I'm a computer engineering student at a university in Turkey.
- 🌱 I’m currently learning C++ and Unreal Engine! 
- ✨I will make my own 3D Game (But i need time)
-  
-   -  What i know ??
-✨i started programming with C ✨ 
-✨i will be Game Developer with C++ & Unreal Engine✨
+🚀 Oyun mekaniği, procedural sistemler ve performans odaklı geliştirme ilgimi çekiyor.
+🎯 Game jam’lere katılarak kendimi geliştirmeye ve yeni şeyler deniyorum.
+
+📌 Şu anda aktif olarak projeler geliştiriyorum ve öğrenmeye devam ediyorum.
+
+English
+
+🎮 Computer Engineering student based in Nevşehir, Turkey.
+I develop games using Unreal Engine and C++.
+
+🚀 Interested in game mechanics, procedural systems, and performance-oriented development.
+🎯 Participating in game jams to improve my skills and explore new ideas.
+
+📌 Currently working on projects and continuously learning.
